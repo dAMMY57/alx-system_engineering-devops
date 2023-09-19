@@ -1,0 +1,2 @@
+#!/bin/bash
+mpv your_movie_file.mp4
